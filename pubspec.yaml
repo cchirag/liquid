@@ -1,7 +1,7 @@
-name: liquid
+name: flutter_liquid
 description: A flutter package to build Responsive and Adaptive UI with ease.
 version: 1.0.0
-homepage:
+homepage: https://github.com/cchirag/liquid
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

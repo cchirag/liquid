@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:liquid/liquid.dart';
+import 'package:flutter_liquid/liquid.dart';
 
 void main() {}

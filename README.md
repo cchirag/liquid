@@ -7,7 +7,7 @@ Liquid is a flutter library that helps you write Responsive and Adaptive UIs wit
 Install the package using the command
 
 ```dart
-flutter pub add liquid
+flutter pub add flutter_liquid
 ```
 
 ## Before you start using the package

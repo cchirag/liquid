@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/widgets.dart';
-import 'package:liquid/src/breakpoint_and_props.dart';
+import './breakpoint_and_props.dart';
 import './liquid_platform.dart';
 import 'package:flutter/foundation.dart';
 

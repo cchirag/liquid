@@ -1,4 +1,4 @@
-import 'package:liquid/src/liquid_platform.dart';
+import './liquid_platform.dart';
 
 class Breakpoint {
   LiquidPlatform platform;
