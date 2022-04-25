@@ -1,4 +1,4 @@
-import 'package:liquid/liquid.dart';
+import 'package:liquid/flutter_liquid.dart';
 
 class Breakpoints {
   static final Breakpoint androidBreakpoint =

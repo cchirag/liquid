@@ -1,6 +1,6 @@
 import 'package:example/layout/breakpoints.dart';
 import 'package:flutter/material.dart';
-import 'package:liquid/liquid.dart';
+import 'package:liquid/flutter_liquid.dart';
 
 void main() {
   runApp(const MyApp());
