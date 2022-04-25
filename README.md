@@ -17,7 +17,7 @@ Create a file called breakpoints.dart under lib folder and define your platform 
 #### Example
 
 ```dart
-import 'package:liquid/liquid.dart';
+import 'package:flutter_liquid/flutter_liquid.dart';
 
 class Breakpoints {
   static final Breakpoint androidBreakpoint =
