@@ -1,4 +1,4 @@
-library liquid;
+library flutter_liquid;
 
 export 'src/breakpoint.dart';
 export 'src/responsive.dart';

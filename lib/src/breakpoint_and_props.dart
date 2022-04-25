@@ -1,4 +1,4 @@
-import '../liquid.dart';
+import '../flutter_liquid.dart';
 
 class BreakpointAndProps<T> {
   final Breakpoint breakpoint;
