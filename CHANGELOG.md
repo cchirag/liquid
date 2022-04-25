@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Version 1.0.0 brings a very easy way to develop responsive and adaptive UI.
